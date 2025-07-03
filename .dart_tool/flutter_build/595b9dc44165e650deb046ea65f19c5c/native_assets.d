@@ -1,0 +1,1 @@
+ E:\\Huzaifa\ Sajid\\BSSE\\6th\ Semester\\Mobile\ Application\ and\ Development\\Project\\fit_life\\.dart_tool\\flutter_build\\595b9dc44165e650deb046ea65f19c5c\\native_assets.yaml: 

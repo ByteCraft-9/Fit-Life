@@ -1,0 +1,1 @@
+ C:\\Users\\Sumsung\\Downloads\\fit_life\ (1)\\fit_life\\.dart_tool\\flutter_build\\e355cf837352abc1d3e9545633336495\\native_assets.yaml: 
